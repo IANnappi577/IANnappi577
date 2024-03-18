@@ -7,11 +7,8 @@ I am currently interested in the fields of Systems Programming, Cybersecurity, a
 - C
 - Python
 - HTML/CSS
+- SQLite/mySQL
+- The RISC-V ISA
 - Rust
 
 This github contains both my classwork and personal projects. Feel free to look around.
-
-<!---
-IANnappi577/IANnappi577 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
