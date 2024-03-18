@@ -2,8 +2,7 @@
 
 Hello, my name is Ian, I am an aspiring software developer studying Computer Science at the George Washingnton University.
 
-I am currently interested in the fields of Systems Programming, Cybersecurity, and Cryptography. I have experience in Test Driven Development (TDD), Agile and Waterfall design, and am
-fluent in the following languages (in descending order):
+I am currently interested in the fields of Systems Programming, Cybersecurity, and Cryptography. I have experience in Test Driven Development (TDD), Agile and Waterfall design principles, Full-stack web development, and am fluent in the following languages (in descending order):
 - Java
 - C
 - Python
