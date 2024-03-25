@@ -6,7 +6,7 @@ I am currently interested in the fields of Systems Programming, Cybersecurity, a
 - Java
 - C
 - Python
-- HTML/CSS
+- HTML/CSS/Javascript
 - SQLite/mySQL
 - The RISC-V ISA
 - Rust
