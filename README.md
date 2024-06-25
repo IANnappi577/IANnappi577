@@ -9,6 +9,6 @@ I am currently interested in the fields of Systems Programming, Cybersecurity, a
 - HTML/CSS/Javascript
 - SQLite/mySQL
 - The RISC-V ISA
-- Limited Experience: Rust, C++
+- Limited Experience: Rust, C++, perl
 
 This github contains both my classwork and personal projects. Feel free to look around.
